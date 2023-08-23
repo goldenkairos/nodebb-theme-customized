@@ -1,7 +1,7 @@
 {
-    "name": "nodebb-theme-quickstart",
+    "name": "nodebb-theme-customized",
     "version": "0.1.0",
-    "description": "Enter a description here",
+    "description": "A very personalized theme that makes everyone happy",
     "main": "theme.less",
     "keywords": [],
     "license": "MIT",
